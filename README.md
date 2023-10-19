@@ -1,5 +1,5 @@
 # Dun and Bradstreet Business and Contact Scraper
-Interested in using this scraper? Get it here: [Dun and Bradstreet Business and Contact Scraper](https://apify.com/curious_coder/dun-and-bradstreet-dnb-com-scraper)
+Interested in using this scraper? Get it here: [Dun and Bradstreet Business and Contact Scraper](https://apify.com/curious_coder/dun-and-bradstreet-dnb-com-scraper?fpr=ve081&fp_sid=github_dun-and-bradstreet-dnb-com-scraper)
 ## How it works
 
 Scrape full company and contacts details data from [Dun and Bradstreet]([https://dnb.com])
@@ -427,14 +427,14 @@ The Dun & Bradstreet data extracted through the Apify Actor can be utilized in v
 1. **Sales and Marketing**: Identify and target potential leads based on specific criteria such as industry, location, or company size or job title
 
 ## How much will it cost me to scrape dnb.com ?
-To use this scraper you need to pay $25 per month fixed cost to the developer and you should have an [Apify subscription](https://apify.com/pricing) which starts from $49/mo prepaid usage credits. 
+To use this scraper you need to pay $25 per month fixed cost to the developer and you should have an [Apify subscription](https://apify.com/pricing?fpr=ve081&fp_sid=github_dun-and-bradstreet-dnb-com-scraper) which starts from $49/mo prepaid usage credits. 
 Based on historical data our scraper costs an average of $1 per thousand records scraped as usage credits.
 Based on above data, you can scrape upto 49000 records per month with starter plan
 
 ## Is it legal to scrape dnb.com ?
 Our scrapers are ethical and do not extract any private user data, such as email addresses, gender, or location. They only extract what the user has chosen to share publicly. We therefore believe that our scrapers, when used for ethical purposes by Apify users, are safe. 
-However, you should be aware that your results could contain personal data. Personal data is protected by the [GDPR](https://docs.apify.com/academy/get-most-of-actors/actor-readme#:~:text=protected%20by%20the-,GDPR,-in%20the%20European) in the European Union and by other regulations around the world. 
-You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, consult your lawyers. You can also read our blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal/)
+However, you should be aware that your results could contain personal data. Personal data is protected by the [GDPR](https://docs.apify.com/academy/get-most-of-actors/actor-readme#:~:text=protected%20by%20the-,GDPR,-in%20the%20European?fpr=ve081&fp_sid=github_dun-and-bradstreet-dnb-com-scraper) in the European Union and by other regulations around the world. 
+You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, consult your lawyers. You can also read our blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal/?fpr=ve081&fp_sid=github_dun-and-bradstreet-dnb-com-scraper)
 
 ## Your feedback
-We’re always working on improving the performance of our Actors. So if you’ve got any technical feedback for DNB Scraper or simply found a bug, please create an issue on the actor’s [Issues](https://console.apify.com/actors/fXblzs6QLMDumpdI9/issues) tab in Apify Console.
+We’re always working on improving the performance of our Actors. So if you’ve got any technical feedback for DNB Scraper or simply found a bug, please create an issue on the actor’s [Issues](https://console.apify.com/actors/fXblzs6QLMDumpdI9/issues?fpr=ve081&fp_sid=github_dun-and-bradstreet-dnb-com-scraper) tab in Apify Console.
